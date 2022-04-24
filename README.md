@@ -6,3 +6,6 @@
 -❄️I think I can still improve my abilities just by taking time. </br>
 ------------------------------------- </br>
 <h1> GalaxyMc
+<h2> Minecraft Server from GalaxyMc
+<h3> IP:mc.galaxy.net </br>
+Port:19132 </br>
