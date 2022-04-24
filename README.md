@@ -7,5 +7,5 @@
 ------------------------------------- </br>
 <h1> GalaxyMc
 <h2> Minecraft Server from GalaxyMc
-<h3> IP:mc.galaxy.net </br>
+<h5> IP:mc.galaxy.net </br>
 Port:19132 </br>
